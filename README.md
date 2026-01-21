@@ -1,6 +1,7 @@
 <h1 align="center">Hello, I’m Devraj Pillay 👋</h1>
 
 <p align="center">
+INFO TECH UNDERGRAD|
 Frontend & Full-Stack Web Development Intern <br/>
 Medkon Software Development Company
 </p>
